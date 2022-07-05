@@ -63,5 +63,6 @@
 ## enums
 
 - It use ```PascalCase``` formate 
-- We cnat define thein separatlt only have to do te keyword just ```enum```
+- We cnat define thein separate only have to do te keyword just ```enum```
   ```enum Size {....}``` 
+- we can declare their values as in the enum size 
