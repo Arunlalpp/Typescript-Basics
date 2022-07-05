@@ -46,8 +46,22 @@
 - remove comments ```removeComments``` 
   :-  It will remove the comments that we add in our typescript file it helps to shorter the javascript file.
 -  ```noEmitOnError```   :- Defauklt when we compile our code it will help to not to generate when there exist an error in the ts file 
--   
+-   Finally enter ```tsc```  will generate basic structure 
 
+- Uncomment the ```sourceMap``` under the emit section :- It show the an another ```.js``` file for how the ts is mapped to js  
+- Use run and debug section in the vs-code extension then type some basics of js programs  
+-```noImplicitany:false``` it will correct the all strickt type-checking errors 
 
+## Array
 
+- Using typescript array is we cannot use or declare the type only have to use the aroow and n.
 
+## Tuples
+
+- It is an fixed length array , in typescript we can declare or use like use their types
+
+## enums
+
+- It use ```PascalCase``` formate 
+- We cnat define thein separatlt only have to do te keyword just ```enum```
+  ```enum Size {....}``` 
